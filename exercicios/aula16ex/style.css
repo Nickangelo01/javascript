@@ -1,0 +1,25 @@
+body{
+    background-color:lightseagreen;
+    font: normal 15pt arial;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 12px;
+}
+section{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    width:500px;
+    margin: auto;
+}
+select#flista{
+    width:150px;
+}
+footer{
+    font-style: italic;
+    text-align: center;
+
+}
